@@ -7,7 +7,7 @@ This project tests the accuracy and fine-tunes a GPT-2 model for sequence classi
 
 It implements and trains both traditional and PEFT models using Python libraries such as NumPy, PyTorch, PEFT and Pandas. This project shows the effectiveness of lightweight fine-tuning for improving model performance while reducing computational complexity.
 
-
+ 
 # Author
 Arash Tashakori
 
